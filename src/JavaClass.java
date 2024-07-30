@@ -6,3 +6,4 @@ public class JavaClass {
     public void method2(){}
     public void method4(){}
 }
+//release1.0
